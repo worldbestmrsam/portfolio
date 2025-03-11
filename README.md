@@ -8,16 +8,21 @@ Hello! I'm Samuel Orija 🤓, a data analyst, educator, and consultant with a pa
 
 *As the Chief Analyst of thebestmrsam_analytics, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
-**- ✅ Data Cleaning And Transformation**
-I ensure data quality, by standardizing data formats and optimize processes that drives business growth. 
-**- ✅ Data Wrangling**
-I transform and prepare raw data into a format that is suitable for analysis and visualization. 
-**- ✅ Data Visualization**
-Transforming complex data into compelling visual insights that addresses business needs.
-**- ✅ Data Analytics Coach**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making.
-**- ✅ Data Storytelling**
-**- ✅ SQL, Excel, Power bi, Python, Tableau.**
+- ✅ **Data Cleaning And Transformation**  
+  I ensure data quality by standardizing data formats and optimizing processes that drive business growth.
+
+- ✅ **Data Wrangling**  
+  I transform and prepare raw data into a format that is suitable for analysis and visualization.
+
+- ✅ **Data Visualization**  
+  I transform complex data into compelling visual insights that address business needs.
+
+- ✅ **Data Analytics Coach**  
+  I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making.
+
+- ✅ **Data Storytelling**
+
+- ✅ **SQL, Excel, Power BI**
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
