@@ -8,20 +8,21 @@ Hello! I'm Samuel Orija 🤓, a data analyst, educator, and consultant with a pa
 
 *As the Chief Analyst of thebestmrsam_analytics, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
-**- ✅ Data Cleaning And Transformation.**
-I ensure data quality, by paying meticulous attention to details, I perform cleaning tasks such as removing duplicates, handling missing values, and standardizing data formats and optimize processes that drives business growth. 
-
-**- ✅ Data Wrangling .**
+**- ✅ Data Cleaning And Transformation**
+I ensure data quality, by standardizing data formats and optimize processes that drives business growth. 
+**- ✅ Data Wrangling**
 I transform and prepare raw data into a format that is suitable for analysis and visualization. 
-**- ✅ Data Analytics Coach .**
-I offer comprehensive training programs in data analysis, visualization, and data-driven 
-decision-making. From beginner to advanced levels.
+**- ✅ Data Visualization**
+Transforming complex data into compelling visual insights that addresses business needs.
+**- ✅ Data Analytics Coach**
+I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making.
+**- ✅ Data Storytelling**
 **- ✅ SQL, Excel, Power bi, Python, Tableau.**
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
 
-*A glimpse of some of the projects I've been working on.*
+*A glimpse of some of the projects I've worked on and those I am currently working on.*
 
 **How I Built A Predictive Model For Loan Eligibility For A Fintech Bank Using Zion Tech Hub Dataset.**
 ![image](fintech dashboard.PNG)
