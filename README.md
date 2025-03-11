@@ -33,6 +33,12 @@ Hello! I'm Samuel Orija 🤓, a data analyst, educator, and consultant with a pa
 ![image](Road Accident Analysis.png)
 [Read More](https://www.linkedin.com/posts/orijasamuel_dataanalytics-powerbi-road-activity-7185767563774062593-lWO2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGPmyoBP03lpKukRgS3z7IZvbBb_VRlHLI)
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
+
+**A Data-Driven Approach To Enhancing Hospital Care And Efficiency**  
+*This is a comprehensive analysis report of patient data from Faith Specialist Hospital, whose objective is to uncover actionable insights to improve patient care and address operational challenges. Using PostgresSQL and Excel, I uncovered key insights and actionable recommendations that  has the capacity of revolutionizing the healthcare sector.*  
+![image](sql healthcare analysis project.png)  
+[Read More](https://drive.google.com/file/d/1SoxmennvwTZ_2BRwO7MdhsTdYVYJ3W5y/view?usp=drive_link)
+
 **Electric Vehicle Analysis**
 This analysis explore the need for the expansion of the adoption of Electric vehicles, detailing their environmental impacts and safety features.
 ![image](Electric Vehicle Analysis Dash.png)
