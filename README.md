@@ -37,7 +37,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 **A Data-Driven Approach To Enhancing Hospital Care And Efficiency**  
 *This is a comprehensive analysis report of patient data from Faith Specialist Hospital, whose objective is to uncover actionable insights to improve patient care and address operational challenges. Using PostgresSQL and Excel, I uncovered key insights and actionable recommendations that  has the capacity of revolutionizing the healthcare sector.*  
 ![image](sql healthcare analysis project .png)  
-[Read More](https://drive.google.com/file/d/1SoxmennvwTZ_2BRwO7MdhsTdYVYJ3W5y/view?usp=drive_link)
+[Download the Report here (pdf file)](https://drive.google.com/file/d/1SoxmennvwTZ_2BRwO7MdhsTdYVYJ3W5y/view?usp=drive_link)
 
 **Electric Vehicle Analysis**
 This analysis explore the need for the expansion of the adoption of Electric vehicles, detailing their environmental impacts and safety features.
@@ -63,16 +63,16 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 ## CONTACT DETAILS
 
-*Let’s connect and see how we can make a difference together!*
+*Let’s connect, collaborate and transform the world together, using the power of data and analytics to drive growth!*
 <table>
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:adewunmisamuel2018@gmail.com">adewunmisamuel2018@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 810-142-9661</td>
     </tr>
     <tr>
       <td>📍</td>
