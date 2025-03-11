@@ -23,7 +23,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 *A glimpse of some of the projects I've been working on.*
 
 **How I Built A Predictive Model For Loan Eligibility For A Fintech Bank Using Zion Tech Hub Dataset.**
-![image](1 fintech dashboard.PNG)
+![image](fintech dashboard.PNG)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
