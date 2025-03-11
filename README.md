@@ -33,9 +33,10 @@ Hello! I'm Samuel Orija 🤓, a data analyst, educator, and consultant with a pa
 ![image](Road Accident Analysis.png)
 [Read More](https://www.linkedin.com/posts/orijasamuel_dataanalytics-powerbi-road-activity-7185767563774062593-lWO2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGPmyoBP03lpKukRgS3z7IZvbBb_VRlHLI)
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
-
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+**Electric Vehicle Analysis**
+This analysis explore the need for the expansion of the adoption of Electric vehicles, detailing their environmental impacts and safety features.
+![image](Electric Vehicle Analysis Dash.png)
+[Read More](https://www.linkedin.com/posts/orijasamuel_dataanalysis-visualization-insights-activity-7178925902028828672-V23D?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGPmyoBP03lpKukRgS3z7IZvbBb_VRlHLI)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
