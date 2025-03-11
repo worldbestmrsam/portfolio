@@ -45,7 +45,7 @@ This analysis explore the need for the expansion of the adoption of Electric veh
 
 **Exploratory Data Analysis Using Python.**  
 *There are secrets hidden in most data, to richly maximize them, I performed a thorough explorstory data analysis using python to uncover great insights that foster increase revenue generation by measurable increases.*
-![image](2 anietie etuk data analytics sales project.jpg)   
+![image](Python EDA Project.png)   
 [Read More](https://colab.research.google.com/drive/1q5nr7Xa7qtiIDcoR-gac92cWzzZF5-IV?usp=drive_link)
 
 <**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**>
@@ -79,7 +79,7 @@ This analysis explore the need for the expansion of the adoption of Electric veh
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="www.linkedin.com/in/orijasamuel">My daily activities on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/orijasamuel/">My daily activities on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
