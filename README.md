@@ -24,12 +24,14 @@ Hello! I'm Samuel Orija 🤓, a data analyst, educator, and consultant with a pa
 *A glimpse of some of the projects I've worked on and those I am currently working on.*
 
 **How I Built A Predictive Model For Loan Eligibility For A Fintech Bank Using Zion Tech Hub Dataset.**
+In a financial landscape where loans fuel aspirations, a comprehensive analysis of bank loans and eligibility, revealing patterns that facilitate smarter financial decision-making, is critical. I designed a model that helps Fintech banks track customers eligibility and reduced default risk.
 ![image](fintech dashboard.PNG)
 [Read More](https://www.linkedin.com/posts/orijasamuel_t-activity-7275863136954384384-ffQ1?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGPmyoBP03lpKukRgS3z7IZvbBb_VRlHLI)
 
 **Road Accident Analysis**
+In this analysis, I explored the impact of data-driven insights on Road accidents, using Power BI. From identifying high-risk areas to enhancing road infrastructure that improves road safety.
 ![image](fintech dashboard.PNG)
-
+[Read More](https://www.linkedin.com/posts/orijasamuel_dataanalytics-powerbi-road-activity-7185767563774062593-lWO2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGPmyoBP03lpKukRgS3z7IZvbBb_VRlHLI)
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 
