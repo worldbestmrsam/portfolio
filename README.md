@@ -48,17 +48,16 @@ This analysis explore the need for the expansion of the adoption of Electric veh
 ![image](Python EDA Project.png)   
 [Read More](https://colab.research.google.com/drive/1q5nr7Xa7qtiIDcoR-gac92cWzzZF5-IV?usp=drive_link)
 
-<**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**>
+**Coffee Shop Sales Analysis Report Using Power BI.**  
+In this project, I cleaned and demonstrated an in-depth analysis of Coffee Shop Sales, leveraged advanced data visualization techniques to unravel key insights and trends, providing valuable business intelligence for strategic decision-making.
+![image](Coffee.jpg)
+[Read More](https://www.linkedin.com/in/orijasamuel/details/projects/1717723162934/single-media-viewer/?profileId=ACoAADGPmyoBP03lpKukRgS3z7IZvbBb_VRlHLI)
 
-![image](3 anietie etuk data analytics agro project.jpg)
-
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
 
-*Let’s connect, collaborate and transform the world together, using the power of data and analytics to drive growth!*
+*Let’s connect, collaborate and transform the world together, using the power of data and analytics to drive great transformation!*
 <table>
   <tbody>
     <tr>
@@ -87,3 +86,4 @@ This analysis explore the need for the expansion of the adoption of Electric veh
     </tr>
   </tbody>
 </table>
+<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
