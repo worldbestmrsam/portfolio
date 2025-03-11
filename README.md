@@ -10,18 +10,12 @@ Hello! I'm Samuel Orija 🤓, a data analyst, educator, and consultant with a pa
 
 - ✅ **Data Cleaning And Transformation**  
   I ensure data quality by standardizing data formats and optimizing processes that drive business growth.
-
-- ✅ **Data Wrangling**  
+- ✅ **Data Wrangling Data Visualization**  
   I transform and prepare raw data into a format that is suitable for analysis and visualization.
-
-- ✅ **Data Visualization**  
-  I transform complex data into compelling visual insights that address business needs.
-
 - ✅ **Data Analytics Coach**  
   I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making.
-
 - ✅ **Data Storytelling**
-
+  Present reports of analysis in manners in which a technical and non-technical stakeholders can understand, and ensure that the business needs is adressed.
 - ✅ **SQL, Excel, Power BI**
 
 <!--Section 2: List 3-4 key projects-->
@@ -32,6 +26,9 @@ Hello! I'm Samuel Orija 🤓, a data analyst, educator, and consultant with a pa
 **How I Built A Predictive Model For Loan Eligibility For A Fintech Bank Using Zion Tech Hub Dataset.**
 ![image](fintech dashboard.PNG)
 [Read More](https://www.linkedin.com/posts/orijasamuel_t-activity-7275863136954384384-ffQ1?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGPmyoBP03lpKukRgS3z7IZvbBb_VRlHLI)
+
+**Road Accident Analysis**
+![image](fintech dashboard.PNG)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
