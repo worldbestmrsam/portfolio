@@ -10,13 +10,13 @@ Hello! I'm Samuel Orija 🤓, a data analyst, educator, and consultant with a pa
 
 - ✅ **Data Cleaning And Transformation**  
   I ensure data quality by standardizing data formats and optimizing processes that drive business growth.
-- ✅ **Data Wrangling Data Visualization**  
+- ✅ **Data Wrangling And Data Visualization**  
   I transform and prepare raw data into a format that is suitable for analysis and visualization.
 - ✅ **Data Analytics Coach**  
   I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making.
-- ✅ **Data Storytelling**
+- ✅ **Data Storytelling And Inspirational Writing**
   Present reports of analysis in manners in which a technical and non-technical stakeholders can understand, and ensure that the business needs is adressed.
-- ✅ **SQL, Excel, Power BI**
+- ✅ **SQL, Excel, Power BI, Python, Tableau**
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
@@ -32,7 +32,6 @@ Hello! I'm Samuel Orija 🤓, a data analyst, educator, and consultant with a pa
 *In this analysis, I explored the impact of data-driven insights on Road accidents, using Power BI. From identifying high-risk areas to enhancing road infrastructure that improves road safety.*
 ![image](Road Accident Analysis.png)
 [Read More](https://www.linkedin.com/posts/orijasamuel_dataanalytics-powerbi-road-activity-7185767563774062593-lWO2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGPmyoBP03lpKukRgS3z7IZvbBb_VRlHLI)
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 **A Data-Driven Approach To Enhancing Hospital Care And Efficiency**  
 *This is a comprehensive analysis report of patient data from Faith Specialist Hospital, whose objective is to uncover actionable insights to improve patient care and address operational challenges. Using PostgresSQL and Excel, I uncovered key insights and actionable recommendations that  has the capacity of revolutionizing the healthcare sector.*  
@@ -44,19 +43,15 @@ This analysis explore the need for the expansion of the adoption of Electric veh
 ![image](Electric Vehicle Analysis Dash.png)
 [Read More](https://www.linkedin.com/posts/orijasamuel_dataanalysis-visualization-insights-activity-7178925902028828672-V23D?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGPmyoBP03lpKukRgS3z7IZvbBb_VRlHLI)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Exploratory Data Analysis Using Python.**  
+*There are secrets hidden in most data, to richly maximize them, I performed a thorough explorstory data analysis using python to uncover great insights that foster increase revenue generation by measurable increases.*
+![image](2 anietie etuk data analytics sales project.jpg)   
+[Read More](https://colab.research.google.com/drive/1q5nr7Xa7qtiIDcoR-gac92cWzzZF5-IV?usp=drive_link)
 
-![image](2 anietie etuk data analytics sales project.jpg)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+<**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**>
 
 ![image](3 anietie etuk data analytics agro project.jpg)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
@@ -76,19 +71,19 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://drive.google.com/file/d/1EZSHKcrY1x7QF6DRLaCt8lc-6J7RBcDi/view?usp=drive_link">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="www.linkedin.com/in/orijasamuel">My daily activities on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://youtube.com/@thebestmrsam?si=n8aXOY0oas3OqJFr">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
