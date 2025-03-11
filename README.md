@@ -14,7 +14,8 @@ I ensure data quality, by paying meticulous attention to details, I perform clea
 **- ✅ Data Wrangling .**
 I transform and prepare raw data into a format that is suitable for analysis and visualization. 
 **- ✅ Data Analytics Coach .**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels.
+I offer comprehensive training programs in data analysis, visualization, and data-driven 
+decision-making. From beginner to advanced levels.
 **- ✅ SQL, Excel, Power bi, Python, Tableau.**
 
 <!--Section 2: List 3-4 key projects-->
@@ -24,6 +25,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 **How I Built A Predictive Model For Loan Eligibility For A Fintech Bank Using Zion Tech Hub Dataset.**
 ![image](fintech dashboard.PNG)
+[Read More]([https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/](https://www.linkedin.com/posts/orijasamuel_t-activity-7275863136954384384-ffQ1?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGPmyoBP03lpKukRgS3z7IZvbBb_VRlHLI))
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
