@@ -6,23 +6,24 @@ Hello! I'm Samuel Orija 🤓, a data analyst, educator, and consultant with a pa
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As the Chief Analyst of thebestmrsam_analytics, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
 **- ✅ Data Cleaning And Transformation.**
-I ensure data quality, by paying meticulous attention to details, perform cleaning tasks such as removing duplicates, handling missing values, and standardizing data formats
-and optimize processes that drives business growth. 
+I ensure data quality, by paying meticulous attention to details, I perform cleaning tasks such as removing duplicates, handling missing values, and standardizing data formats and optimize processes that drives business growth. 
 
 **- ✅ Data Wrangling .**
 I transform and prepare raw data into a format that is suitable for analysis and visualization. 
 **- ✅ Data Analytics Coach .**
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels.
+**- ✅ SQL, Excel, Power bi, Python, Tableau.**
+
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
 
 *A glimpse of some of the projects I've been working on.*
 
 **How I Built A Predictive Model For Loan Eligibility For A Fintech Bank Using Zion Tech Hub Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](1 fintech dashboard.PNG)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
