@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Samuel Orija 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. Utilizing design thinking to develop client-centric solutions in form of reports, dashboards, and presentations to help businesses solve challenges and unlock growth.
+Hello! I'm Samuel Orija 🤓, a detail-oriented data analyst, educator, content creator and consultant with a passion for utilizing design thinking to develop client-centric solutions in form of reports, dashboards, and presentations, turning data into actionable insights  to help businesses solve challenges and unlock growth. 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
@@ -38,7 +38,7 @@ Hello! I'm Samuel Orija 🤓, a data analyst, educator, and consultant with a pa
 ![image](sql healthcare analysis project .png)  
 [Download the Report here (pdf file)](https://drive.google.com/file/d/1SoxmennvwTZ_2BRwO7MdhsTdYVYJ3W5y/view?usp=drive_link)
 
-**Electric Vehicle Analysis**
+**Electric Vehicle Analysis**  
 This analysis explore the need for the expansion of the adoption of Electric vehicles, detailing their environmental impacts and safety features.
 ![image](Electric Vehicle Analysis Dash.png)
 [Read More](https://www.linkedin.com/posts/orijasamuel_dataanalysis-visualization-insights-activity-7178925902028828672-V23D?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGPmyoBP03lpKukRgS3z7IZvbBb_VRlHLI)
@@ -51,7 +51,7 @@ This analysis explore the need for the expansion of the adoption of Electric veh
 **Coffee Shop Sales Analysis Report Using Power BI.**  
 In this project, I cleaned and demonstrated an in-depth analysis of Coffee Shop Sales, leveraged advanced data visualization techniques to unravel key insights and trends, providing valuable business intelligence for strategic decision-making.
 ![image](Coffee.jpg)
-[Read More](https://www.linkedin.com/in/orijasamuel/details/projects/1717723162934/single-media-viewer/?profileId=ACoAADGPmyoBP03lpKukRgS3z7IZvbBb_VRlHLI)
+[View Project Engagement](https://www.linkedin.com/posts/orijasamuel_dataanalysis-businessintelligence-coffeeshopsales-activity-7204005140192731136-j07G?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGPmyoBP03lpKukRgS3z7IZvbBb_VRlHLI)
 
 
 
@@ -86,4 +86,24 @@ In this project, I cleaned and demonstrated an in-depth analysis of Coffee Shop 
     </tr>
   </tbody>
 </table>
+<!-- TikTok Row -->
+<tr>
+  <td>
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok Logo" width="24" height="24">
+  </td>
+  <td>
+    <a href="https://www.tiktok.com/@thebestmrsam_analytics?_t=ZM-8uckqkVaMAn&_r=1">Watch My Daily Activities On TikTok</a>
+  </td>
+</tr>
+
+<!-- Facebook Row -->
+<tr>
+  <td>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Logo" width="24" height="24">
+  </td>
+  <td>
+    <a href="https://www.facebook.com/share/15nnRmVGNN/" target="_blank">Watch My Daily Activities On Facebook</a>
+  </td>
+</tr>
+
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
