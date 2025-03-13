@@ -14,8 +14,9 @@ Hello! I'm Samuel Orija 🤓, a detail-oriented data analyst, educator, content 
   I transform and prepare raw data into a format that is suitable for analysis and visualization.
 - ✅ **Data Analytics Coach**  
   I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making.
-- ✅ **Data Storytelling And Inspirational Writing**
-  Present reports of analysis in manners in which a technical and non-technical stakeholders can understand, and ensure that the business needs is adressed.
+- ✅ **Data Storytelling And Inspirational Writing**  
+  Present reports of analysis in manners in which a technical and non-technical stakeholders can understand, and ensure 
+  that the business needs is adressed.
 - ✅ **SQL, Excel, Power BI, Python, Tableau**
 
 <!--Section 2: List 3-4 key projects-->
