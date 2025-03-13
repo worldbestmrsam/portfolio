@@ -7,20 +7,20 @@ Hello! I'm Samuel Orija 🤓, a result-driven Data Analyst with a strong backgro
 *As the Chief Analyst of thebestmrsam_analytics, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
 - ✅ **Data Analysis & Visualization:**  
-  Proficient in Power BI, Tableau, Excel, Matplotlib, Seaborn to optimize processes that drive business growth.
-- ✅ **Programming & Querying:**
-  SQL, Python for data wrangling and data visualization  
+  Proficient in Power BI, Tableau, Excel, and Matplotlib.
+- ✅ **Programming & Querying:**  
+  SQL, Python for data wrangling and data visualization    
 - ✅ **Business Intelligence & Data Modeling**  
-- ✅ **Statistical Analysis & Reporting:**
-  A/B Testing and Predictive Analytics 
-  ✅ **Data Analytics Coach, Content Creator, Consultant**
-  I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making.
-- ✅ **Communication, Collaboration, Data Storytelling and Writing**
+- ✅ **Statistical Analysis & Reporting:**  
+  A/B Testing and Predictive Analytics  
+  ✅ **Data Analytics Coach, Content Creator, Consultant**  
+  I offer comprehensive training programs in data analysis.
+- ✅ **Excellent team player, Data Storytelling and Creative Writing.**  
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
 
-*A glimpse of some of the projects I've worked on and those I am currently working on.*
+*A glimpse of some of the projects I've worked on and my ongoing projects.*
 
 **How I Built A Predictive Model For Loan Eligibility For A Fintech Bank Using Zion Tech Hub Dataset.**  
 *In a financial landscape where loans fuel aspirations, a comprehensive analysis of bank loans and eligibility, revealing patterns that facilitate smarter financial decision-making, is critical. I designed a model that helps Fintech banks track customers eligibility and reduced default risk.*
