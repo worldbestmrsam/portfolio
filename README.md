@@ -73,7 +73,7 @@ In this project, I cleaned and demonstrated an in-depth analysis of Coffee Shop 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://drive.google.com/file/d/1EZSHKcrY1x7QF6DRLaCt8lc-6J7RBcDi/view?usp=drive_link">Download my CV</a></td>
+      <td><a href="https://drive.google.com/file/d/1fJfLNT8UXwCjyyUrxyZ7olRhKvnXP0MJ/view?usp=drive_link">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
