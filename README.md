@@ -1,23 +1,21 @@
 <!--Section 1: Introduce your self-->
-## ABOUT ME
-
-Hello! I'm Samuel Orija 🤓, a detail-oriented data analyst, educator, content creator and consultant with a passion for utilizing design thinking to develop client-centric solutions in form of reports, dashboards, and presentations, turning data into actionable insights  to help businesses solve challenges and unlock growth. 
-
+## ABOUT ME  
+Hello! I'm Samuel Orija 🤓, a result-driven Data Analyst with a strong background in transforming complex datasets into actionable business insights. Adept at leveraging SQL, Python, Power BI, and Excel to analyze trends, optimize operations, and drive strategic decision-making. Passionate about data storytelling, problem-solving and improving business performance.
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
 
 *As the Chief Analyst of thebestmrsam_analytics, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
-- ✅ **Data Cleaning And Transformation**  
-  I ensure data quality by standardizing data formats and optimizing processes that drive business growth.
-- ✅ **Data Wrangling And Data Visualization**  
-  I transform and prepare raw data into a format that is suitable for analysis and visualization.
-- ✅ **Data Analytics Coach**  
+- ✅ **Data Analysis & Visualization:**  
+  Proficient in Power BI, Tableau, Excel, Matplotlib, Seaborn to optimize processes that drive business growth.
+- ✅ **Programming & Querying:**
+  SQL, Python for data wrangling and data visualization  
+- ✅ **Business Intelligence & Data Modeling**  
+- ✅ **Statistical Analysis & Reporting:**
+  A/B Testing and Predictive Analytics 
+  ✅ **Data Analytics Coach, Content Creator, Consultant**
   I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making.
-- ✅ **Data Storytelling And Inspirational Writing**  
-  Present reports of analysis in manners in which a technical and non-technical stakeholders can understand, and ensure 
-  that the business needs is adressed.
-- ✅ **SQL, Excel, Power BI, Python, Tableau**
+- ✅ **Communication, Collaboration, Data Storytelling and Writing**
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
